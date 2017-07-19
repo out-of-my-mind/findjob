@@ -1,4 +1,4 @@
-# findjob
+# 历程（不定式更新）
 下图是我做的一个音乐网站，从设计到切图到页面功能到后台管理独自完成（图片显示不出来是因为数据库版本没对上……）当时只是单纯的搭页面还没接触到框架什么的，应付交作业。技术上html+css+.net
  
  ![ ](https://github.com/out-of-my-mind/findjob/blob/master/img/1.jpg)
